@@ -5,9 +5,9 @@ import java.util.List;
  * @author keithgroves
  *
  */
-public class SqInRect {
+public class SquaresIntoRectangles {
   
-  public static List<Integer> sqInRect(int l, int w) {
+  public static List<Integer> sqInRect(int length, int width) {
 	  //Write code here:
 	  return null; 
   }
